@@ -1,0 +1,16 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectView>ShowAllFiles</ProjectView>
+    <ReferencePath>C:\Program Files (x86)\Business Objects\Common\2.8\managed\</ReferencePath>
+    <PublishUrlHistory>ftp://sistemasrock.net84.net/public_html/|ftp://sistemasrock.net84.net/home/a1405731/|C:\FII\|ftp.7hostfree.com/root/|ftp://ftp.7hostfree.com/root/</PublishUrlHistory>
+    <InstallUrlHistory>http://sistemasrock.net84.net/|http://sistemasrock.net84.net/index.html/|http://rockbass2560.7hostfree.com/</InstallUrlHistory>
+    <SupportUrlHistory>
+    </SupportUrlHistory>
+    <UpdateUrlHistory>
+    </UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <FallbackCulture>es-ES</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>
